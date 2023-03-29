@@ -10,7 +10,7 @@
         "d": "the service rate of the servers"
       },
       "explanations": {
-        "b": "According to Kendal notation $3$ denotes the number of servers available ", 
+        "b": "According to Kendal notation 3 denotes the number of servers available ", 
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -32,10 +32,10 @@
     {
       "question": "Which of the following is NOT a measure of system performance in the M/M/c/N model?",
       "answers": {
-  "a": "Utilization",
-  "b": "Waiting time",
-  "c": "Arrival rate",
-  "d": "Queue length"
+        "a": "Utilization",
+        "b": "Waiting time",
+        "c": "Arrival rate",
+        "d": "Queue length"
       },
       "explanations": {
         "d": "Arrival rate. While the arrival rate is an important input parameter in the M/M/c/N model, it is not considered a measure of system performance"
