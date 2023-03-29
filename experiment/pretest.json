@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In an M/M/3/N queueing system, what does the "3" represent?",
+      "question": "In an $M/M/3/N$ queueing system, what does the "3" represent?",
       "answers": {
         "a": "the average number of customers arriving per unit time",
         "b": "the number of servers available",
@@ -18,7 +18,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the main assumption of the M/M/C/N model?",
+      "question": "What is the main assumption of the $M/M/C/N$ model?",
       "answers": {
         "a": "The arrival rate is constant",
         "b": "The service time is constant",
@@ -27,14 +27,14 @@
       },
       "explanations": {
  
-        "d": "All of the above. The M/M/C/N model assumes that the arrival rate, service time, and number of servers are all constant",
+        "d": "All of the above. The $M/M/C/N$ model assumes that the arrival rate, service time, and number of servers are all constant",
         
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
     },
     {
-      "question": "Which of the following is NOT a measure of system performance in the M/M/C/N model?",
+      "question": "Which of the following is NOT a measure of system performance in the $M/M/C/N$ model?",
       "answers": {
   "a":   "Utilization",
   "b": "Waiting time",
@@ -42,13 +42,13 @@
   "d": "Queue length",
       },
       "explanations": {
-        "d": "Arrival rate. While the arrival rate is an important input parameter in the M/M/C/N model, it is not considered a measure of system performance"
+        "d": "Arrival rate. While the arrival rate is an important input parameter in the $M/M/C/N$ model, it is not considered a measure of system performance"
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
     },
     {
-      "question": "How does increasing the number of servers (C) affect system performance in the M/M/C/N model?",
+      "question": "How does increasing the number of servers (C) affect system performance in the $M/M/C/N$ model?",
       "answers": {
         "a": "Decreases utilization and waiting time",
         "b": "Increases utilization and waiting time",
@@ -56,7 +56,7 @@
         "d": "Decreases utilization but increases waiting time"
       },
       "explanations": {
-        "a": "Decreases utilization and waiting time. Increasing the number of servers (C) in the M/M/C/N model will decrese the waiting time as well as utilization"
+        "a": "Decreases utilization and waiting time. Increasing the number of servers (C) in the $M/M/C/N$ model will decrese the waiting time as well as utilization"
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
