@@ -10,9 +10,7 @@
         "d": "the service rate of the servers"
       },
       "explanations": {
-       
-        "b": "According to Kendal notation $3$ denotes the number of servers available ",
-       
+        "b": "According to Kendal notation $3$ denotes the number of servers available ", 
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -26,9 +24,7 @@
         "d": "All of the above"
       },
       "explanations": {
- 
         "d": "All of the above. The $M/M/C/N$ model assumes that the arrival rate, service time, and number of servers are all constant",
-        
       },
       "correctAnswer": "d",
       "difficulty": "intermediate"
