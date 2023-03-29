@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "In an $M/M/3/N$ queueing system, what does the "3" represent?",
+      "question": "In an $M/M/3/N$ queueing system, what does the $"3"$ represent?",
       "answers": {
         "a": "the average number of customers arriving per unit time",
         "b": "the number of servers available",
@@ -11,7 +11,7 @@
       },
       "explanations": {
        
-        "b": "According to Kendal notation 3 denotes the number of servers available ",
+        "b": "According to Kendal notation $3$ denotes the number of servers available ",
        
       },
       "correctAnswer": "b",
@@ -36,7 +36,7 @@
     {
       "question": "Which of the following is NOT a measure of system performance in the $M/M/C/N$ model?",
       "answers": {
-  "a":   "Utilization",
+  "a": "Utilization",
   "b": "Waiting time",
   "c": "Arrival rate",
   "d": "Queue length",
@@ -48,7 +48,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "How does increasing the number of servers (C) affect system performance in the $M/M/C/N$ model?",
+      "question": "How does increasing the number of servers $(C)$ affect system performance in the $M/M/C/N$ model?",
       "answers": {
         "a": "Decreases utilization and waiting time",
         "b": "Increases utilization and waiting time",
@@ -56,7 +56,7 @@
         "d": "Decreases utilization but increases waiting time"
       },
       "explanations": {
-        "a": "Decreases utilization and waiting time. Increasing the number of servers (C) in the $M/M/C/N$ model will decrese the waiting time as well as utilization"
+        "a": "Decreases utilization and waiting time. Increasing the number of servers $(C)$ in the $M/M/C/N$ model will decrese the waiting time as well as utilization"
       },
       "correctAnswer": "a",
       "difficulty": "intermediate"
