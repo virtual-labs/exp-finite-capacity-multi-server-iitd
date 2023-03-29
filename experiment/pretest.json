@@ -35,7 +35,7 @@
   "a": "Utilization",
   "b": "Waiting time",
   "c": "Arrival rate",
-  "d": "Queue length",
+  "d": "Queue length"
       },
       "explanations": {
         "d": "Arrival rate. While the arrival rate is an important input parameter in the M/M/c/N model, it is not considered a measure of system performance"
