@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How does the arrival rate impact the performance of the M/M/C/N queuing model?",
+      "answers": {
+        "a": "Increasing the arrival rate will increase the mean waiting time in the queue",
+        "b": "Increasing the arrival rate will decrease the utilization factor",
+        "c": "Increasing the arrival rate will decrease the mean number of customers in the system",
+        "d": "Increasing the arrival rate will increase the mean service time"
+      },
+      "explanations": {
+        "a": "Increasing the arrival rate will decrease the mean number of customers in the system. As the arrival rate increases, customers arrive faster and the queue starts to fill up. This reduces the average number of customers in the system",
+        "b": "Increasing the arrival rate will decrease the mean number of customers in the system. As the arrival rate increases, customers arrive faster and the queue starts to fill up. This reduces the average number of customers in the system",
+        "c": "Increasing the arrival rate will decrease the mean number of customers in the system. As the arrival rate increases, customers arrive faster and the queue starts to fill up. This reduces the average number of customers in the system",
+        "d": "Increasing the arrival rate will decrease the mean number of customers in the system. As the arrival rate increases, customers arrive faster and the queue starts to fill up. This reduces the average number of customers in the system"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When is the M/M/C/N queuing model appropriate to use?",
+      "answers": {
+        "a": "When the system has a finite number of customers",
+        "b": "When the arrival rate is always equal to the service rate",
+        "c": "When the service time is deterministic and constant",
+        "d": "When the number of servers is fixed and known"
+      },
+      "explanations": {
+        "a": "When the number of servers is fixed and known. The M/M/C/N queuing model is appropriate to use when the number of servers is fixed and known, and customers arrive randomly and are served in a first-come, first-served manner",
+        "b": "When the number of servers is fixed and known. The M/M/C/N queuing model is appropriate to use when the number of servers is fixed and known, and customers arrive randomly and are served in a first-come, first-served manner",
+        "c": "When the number of servers is fixed and known. The M/M/C/N queuing model is appropriate to use when the number of servers is fixed and known, and customers arrive randomly and are served in a first-come, first-served manner",
+        "d": "When the number of servers is fixed and known. The M/M/C/N queuing model is appropriate to use when the number of servers is fixed and known, and customers arrive randomly and are served in a first-come, first-served manner"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the utilization factor of a system in the M/M/C/N queuing model?",
+      "answers": {
+        "a": "The ratio of the mean number of customers in the system to the mean waiting time in the queue",
+        "b": "The ratio of the mean waiting time in the queue to the mean service time",
+        "c": "The ratio of the mean service time to the mean waiting time in the queue",
+        "d": "The ratio of the mean number of customers in the system to the number of servers"
+      },
+      "explanations": {
+        "a": "The ratio of the mean number of customers in the system to the number of servers. It represents the percentage of time that the servers are busy serving customers",
+        "b": "The ratio of the mean number of customers in the system to the number of servers. It represents the percentage of time that the servers are busy serving customers",
+        "c": "The ratio of the mean number of customers in the system to the number of servers. It represents the percentage of time that the servers are busy serving customers",
+        "d": "The ratio of the mean number of customers in the system to the number of servers.It represents the percentage of time that the servers are busy serving customers"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In the M/M/C/N queuing model, what is the meaning of the utilization factor?",
+      "answers": {
+        "a": "The fraction of time that a server is idle",
+        "b": "The fraction of time that a server is busy",
+        "c": "The fraction of customers that are served immediately upon arrival",
+        "d": "The fraction of customers that leave the system without being served"
+      },
+      "explanations": {
+        "a": "The utilization factor is the fraction of time that a server is busy. It represents how much of the server's capacity is being utilized to serve customers",
+        "b": "The utilization factor is the fraction of time that a server is busy. It represents how much of the server's capacity is being utilized to serve customers",
+        "c": "The utilization factor is the fraction of time that a server is busy. It represents how much of the server's capacity is being utilized to serve customers",
+        "d": "The utilization factor is the fraction of time that a server is busy. It represents how much of the server's capacity is being utilized to serve customers"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    }
+  ]
+}
