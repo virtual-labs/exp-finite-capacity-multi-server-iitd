@@ -2,7 +2,7 @@ To conduct the experiment for the M/M/c/N queueing model, follow these detailed 
 
 1. **Set Simulation Parameters**:
    - **Set the Mean Arrival Rate**: Input the average rate at which customers arrive at the system.
-   - **Set the Mean Service Rate: Input the average rate at which each server can process customers.
+   - **Set the Mean Service Rate**: Input the average rate at which each server can process customers.
    - **Set the Number of Servers**: Define the number of servers available to process customers in the system.
    - **Set the Maximum Number of Customers**: Define the system's capacity, which is the maximum number of customers that can be present in the system (both in service and in the queue) at any given time.
 
